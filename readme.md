@@ -2,15 +2,16 @@
 
 >PT-BR
 
-Desafio sobre Grid do Stage 3 da turma Explorer da Rocketseat.
+Desafio sobre Dom do Stage 5 da turma Explorer da Rocketseat.
 
 >EN-US
 
 
-Rocketseat Explorer Class Stage 3 Grid Challenge.
+Rocketseat Explorer Class Stage 5 DOM Challenge.
 
 ## ⚙️ Languages
 
 - HTML
 - CSS
 - Git
+- JS
